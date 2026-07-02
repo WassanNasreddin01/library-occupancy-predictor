@@ -73,10 +73,8 @@ I was part of the **data subteam**, responsible for:
 ```
 library-occupancy-predictor/
 ├── README.md
-├── data/
-│   └── library_occupancy_MS3.csv
-└── notebooks/
-    └── Final_Model.ipynb
+├── library_occupancy_MS3.csv
+└── Model.ipynb
 ```
 
 ---
